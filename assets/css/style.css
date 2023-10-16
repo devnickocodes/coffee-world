@@ -76,3 +76,69 @@ nav {
     display: none;
     top: 100%;
 }
+
+/* Nav toggle */
+#check:checked~nav {
+    display: block;
+}
+
+#check {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media query for screen sizes (313 and below) */
+@media screen and (max-width: 313px) {
+
+    /* hide font awesome icon on smaller devices */
+    #h1-icon {
+        display: none;
+    }
+}
+
+/* Media query: tablets and larger (768px and up)*/
+@media screen and (min-width: 768px) {
+
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+    }
+
+    .check-lable {
+        display: none;
+    }
+
+    #logo {
+        font-size: 220%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
