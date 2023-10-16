@@ -93,6 +93,11 @@ main {
     flex: 1 0 auto;
     /* pushes content down so it is not hidden by the nav */
     margin-top: 48px;
+
+}
+
+#main-page-color {
+    background-color: rgba(110, 78, 36, .3);
 }
 
 /* Top main part of home page */
