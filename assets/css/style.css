@@ -294,4 +294,24 @@ footer>p {
     #menu li {
         padding-left: 5rem;
     }
+
+    .container {
+        max-width: 400px;
+        margin: 20px auto;
+    }
+}
+
+/* Media query: larger screens (1024px and up) */
+@media screen and (min-width: 1024px) {
+    .container {
+        max-width: 500px;
+    }
+}
+
+
+/* Media query: laptops and larger screens (1440px and up) */
+@media screen and (min-width: 1440px) {
+    .container {
+        max-width: 700px;
+    }
 }
