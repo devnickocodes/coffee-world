@@ -95,7 +95,38 @@ main {
     margin-top: 48px;
 }
 
+/* Top main part of home page */
+#top-main {
+    height: 600px;
+    width: 100%;
+    background: url("../images/pexels-toni-cuenca-585753.jpg") no-repeat center center/cover;
+    position: relative;
+}
 
+/* Overrides the general rules we have set up for h2s and h3s */
+#cover-text>h2,
+#cover-text>h3 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #d3bdbd;
+    /* SEPARATES THE TWO TEXTS */
+    margin-bottom: 1rem;
+}
+
+
+
+#cover-text {
+    background-color: rgba(153, 121, 80, 0.7);
+    position: absolute;
+    top: 5rem;
+    left: 1rem;
+    font-size: 120%;
+    width: 80%;
+    min-height: 100px;
+    border-radius: 5px;
+    padding: 1rem 0.3rem;
+}
 
 
 
