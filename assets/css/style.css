@@ -102,7 +102,29 @@ main {
 
 
 
+/* Footer */
+footer {
+    background-color: #997950;
+}
 
+#social-links {
+    padding: 0.3rem 1rem;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+footer>p {
+    color: #ffffff;
+}
+
+/* Fontawesome Icons styling */
+.fa-brands {
+    color: #ffffff;
+    font-size: 130%;
+    padding: 1rem;
+}
 
 
 
