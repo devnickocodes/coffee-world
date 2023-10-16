@@ -52,3 +52,15 @@ header label i {
     letter-spacing: 2px;
     list-style-type: none;
 }
+
+#menu>li {
+    margin-bottom: .7em;
+}
+
+.active,
+.active:hover {
+    background: #997950;
+    transition: .3s;
+    border-radius: 4px;
+    padding: .3rem;
+}
