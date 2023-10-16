@@ -86,7 +86,14 @@ nav {
     display: none;
 }
 
+/* Main content */
 
+main {
+    /* Make element take surplus space */
+    flex: 1 0 auto;
+    /* pushes content down so it is not hidden by the nav */
+    margin-top: 48px;
+}
 
 
 
@@ -142,3 +149,4 @@ nav {
         line-height: 75px;
         margin: 0 0.5rem;
     }
+}
