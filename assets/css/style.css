@@ -46,3 +46,9 @@ header a {
 header label i {
     color: #ffffff;
 }
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
