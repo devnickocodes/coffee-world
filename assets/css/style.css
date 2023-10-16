@@ -171,7 +171,20 @@ main {
     background: url("../images/container-img-four.jpg") no-repeat center center/cover;
 }
 
+/* Color for interesting facts text to contrast it from the background image*/
+.color {
+    background-color: rgba(241, 222, 198, 0.6);
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 0.5rem;
+}
 
+.color>h3,
+.color>p {
+    color: #000000;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
 
 
 
