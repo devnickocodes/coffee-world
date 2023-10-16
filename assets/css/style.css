@@ -184,6 +184,12 @@ footer>p {
         line-height: 75px;
         margin: 0 0.5rem;
     }
+
+    /* Main Content */
+    main {
+        /* push content down so it is not hidden behind the nav */
+        margin-top: 75px;
+    }
 }
 
 
