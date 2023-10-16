@@ -64,3 +64,15 @@ header label i {
     border-radius: 4px;
     padding: .3rem;
 }
+
+/* Navbar toggle */
+nav {
+    position: absolute;
+    background-color: #5C2C06;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #613613;
+    display: none;
+    top: 100%;
+}
