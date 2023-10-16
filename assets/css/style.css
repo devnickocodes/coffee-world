@@ -154,6 +154,30 @@ main {
 }
 
 
+/* Background for each container */
+.one {
+    background: url("../images/container-img-one.jpg") no-repeat center center/cover;
+}
+
+.two {
+    background: url("../images/container-img-two.jpg") no-repeat center center/cover;
+}
+
+.three {
+    background: url("../images/container-img-three.jpg") no-repeat center center/cover;
+}
+
+.four {
+    background: url("../images/container-img-four.jpg") no-repeat center center/cover;
+}
+
+
+
+
+
+
+
+
 /* Footer */
 footer {
     background-color: #997950;
