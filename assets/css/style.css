@@ -191,10 +191,14 @@ main {
     margin-bottom: 1rem;
 }
 
+/* Gallery */
 
+#images img {
+    width: 100%;
+    border-radius: 7px;
+    margin: 0.5rem auto;
 
-
-
+}
 
 /* Footer */
 footer {
@@ -249,8 +253,10 @@ footer>p {
     }
 }
 
+
 /* Media query: tablets and larger (768px and up)*/
 @media screen and (min-width: 768px) {
+
 
     /* Header */
     nav {
@@ -284,6 +290,7 @@ footer>p {
         /* push content down so it is not hidden behind the nav */
         margin-top: 75px;
     }
+
 }
 
 
@@ -304,6 +311,8 @@ footer>p {
         max-width: 400px;
         margin: 20px auto;
     }
+
+
 }
 
 /* Media query: larger screens (1024px and up) */
