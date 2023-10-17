@@ -291,6 +291,10 @@ footer>p {
         margin-top: 75px;
     }
 
+    /* Gallery */
+    #images {
+        column-count: 2;
+    }
 }
 
 
@@ -312,7 +316,10 @@ footer>p {
         margin: 20px auto;
     }
 
-
+    /* Gallery */
+    #images {
+        column-count: 3;
+    }
 }
 
 /* Media query: larger screens (1024px and up) */
