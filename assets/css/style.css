@@ -193,6 +193,26 @@ main {
 
 /* Gallery */
 
+#gallery h2 {
+    margin: 20px auto;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 2rem 2rem;
+}
+
+#gallery h2 span {
+    background-color: rgba(153, 121, 80, 0.644);
+    color: #ffffff;
+    padding: 0.5rem 0.5rem;
+    border-radius: 6px;
+
+}
+
+u {
+    margin-top: 0.2rem;
+
+}
+
 #images img {
     width: 100%;
     border-radius: 7px;
