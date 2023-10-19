@@ -267,10 +267,17 @@ u {
 
 .card {
     box-shadow: 3px 3px 8px #000;
-    background-color: rgba(90, 47, 47, 0.527);
+    background-color: rgba(90, 47, 47, 0.4);
     margin: 1rem auto;
     border-top-left-radius: 15px;
     border-bottom-right-radius: 15px;
+}
+
+.card-content {
+    line-height: 1.5;
+    font-size: 1.2em;
+    padding: 20px;
+    color: white;
 }
 
 /* Footer */
