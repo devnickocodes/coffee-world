@@ -404,7 +404,10 @@ footer>p {
         column-count: 2;
     }
 
-
+    /* Coffee Types */
+    .cards {
+        grid-template-columns: repeat(3, 1fr);
+    }
 }
 
 
