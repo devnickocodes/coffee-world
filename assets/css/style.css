@@ -253,7 +253,7 @@ u {
 /* Styling the coffee types layout */
 
 .cards {
-    display: flex;
+    display: grid;
     flex-wrap: wrap;
     grid-template-columns: repeat(autofill, minmax (225px, 1fr));
     gap: 20px;
@@ -263,7 +263,7 @@ u {
 
 .card-img {
     width: 100%;
-    /* display: block; */
+    display: block;
 }
 
 .card {
@@ -403,6 +403,7 @@ footer>p {
     #images {
         column-count: 2;
     }
+
 
 }
 
