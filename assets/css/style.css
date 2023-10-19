@@ -290,6 +290,23 @@ u {
     margin: 0.5rem;
 }
 
+.card-content p {
+    text-align: center;
+    margin: 0.5rem;
+}
+
+.card-info a {
+    color: #5C2C06;
+    text-decoration: none;
+}
+
+
+.card-info a:hover {
+    background-color: rgba(73, 57, 57, 0.164);
+    padding: 0.3rem;
+    border-radius: 5px;
+}
+
 /* Footer */
 footer {
     background-color: #997950;
