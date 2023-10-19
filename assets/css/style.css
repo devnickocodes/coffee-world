@@ -280,6 +280,16 @@ u {
     color: white;
 }
 
+.card-info {
+    padding: 15px;
+    text-align: center;
+}
+
+.card-content h2 {
+    text-align: center;
+    margin: 0.5rem;
+}
+
 /* Footer */
 footer {
     background-color: #997950;
