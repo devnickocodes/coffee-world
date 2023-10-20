@@ -408,7 +408,7 @@ footer>p {
 
     /* Coffee Types */
     .cards {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
@@ -434,6 +434,11 @@ footer>p {
     /* Gallery */
     #images {
         column-count: 3;
+    }
+
+    /* Coffee Types */
+    .cards {
+        grid-template-columns: repeat(3, 1fr);
     }
 }
 
