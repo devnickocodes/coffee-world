@@ -277,7 +277,7 @@ u {
     margin: 1rem auto;
     border-top-left-radius: 15px;
     border-bottom-right-radius: 15px;
-    min-height: 750px;
+    height: 750px;
 }
 
 .card-content {
@@ -367,6 +367,13 @@ footer>p {
     }
 }
 
+/* Media query: screens 766 and below */
+@media screen and (min-width:390px) {
+    .card {
+        height: 500px;
+        padding-bottom: 2rem;
+    }
+}
 
 /* Media query: tablets and larger (768px and up)*/
 @media screen and (min-width: 768px) {
@@ -413,6 +420,11 @@ footer>p {
     /* Coffee Types */
     .cards {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .card {
+        height: 550px;
+        padding-bottom: 2rem;
     }
 }
 
