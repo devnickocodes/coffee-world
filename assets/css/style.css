@@ -277,7 +277,7 @@ u {
     margin: 1rem auto;
     border-top-left-radius: 15px;
     border-bottom-right-radius: 15px;
-    max-height: 600px;
+    min-height: 750px;
 }
 
 .card-content {
