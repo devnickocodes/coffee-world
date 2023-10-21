@@ -427,7 +427,7 @@ footer>p {
     }
 }
 
-/* Media query: screens 766 and below */
+/* Media query: screens 390px and below */
 @media screen and (min-width:390px) {
     .card {
         height: 500px;
@@ -485,6 +485,11 @@ footer>p {
     .card {
         height: 550px;
         padding-bottom: 2rem;
+    }
+
+    /* Sign Up Page */
+    #sign-up-form {
+        max-width: 40%;
     }
 }
 
