@@ -358,6 +358,13 @@ u {
     color: #ffffff;
 }
 
+
+/* Input border when clicked and the color of input letters */
+#sign-up-form input:focus {
+    color: #ffffff;
+    outline: 2px solid #ffffff;
+}
+
 /* Footer */
 footer {
     background-color: #997950;
