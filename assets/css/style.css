@@ -337,7 +337,7 @@ u {
 }
 
 #reg-form {
-    padding-top: 6rem;
+    padding-top: 3rem;
 }
 
 #sign-up-form h1 {
@@ -363,6 +363,15 @@ u {
 #sign-up-form input:focus {
     color: #ffffff;
     outline: 2px solid #ffffff;
+}
+
+form button {
+    margin-top: 1rem;
+    padding: 0.6rem 2rem;
+    border-radius: 15px;
+    border: 1px solid #fff;
+    color: white;
+    background-color: rgba(153, 121, 80, 0.571);
 }
 
 /* Footer */
