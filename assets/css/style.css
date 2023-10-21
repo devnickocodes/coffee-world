@@ -353,6 +353,10 @@ u {
     background-color: rgba(92, 45, 6, 0.3);
 }
 
+/* Change the color of the text of the placeholder */
+#sign-up-form input::placeholder {
+    color: #ffffff;
+}
 
 /* Footer */
 footer {
