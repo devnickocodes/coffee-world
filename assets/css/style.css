@@ -340,7 +340,10 @@ u {
     padding-top: 6rem;
 }
 
-
+#sign-up-form h1 {
+    margin: 1rem;
+    font-size: 120%;
+}
 
 
 /* Footer */
