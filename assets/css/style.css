@@ -325,7 +325,20 @@ u {
 }
 
 
+#sign-up-form {
+    background-color: rgba(0, 0, 0, .4);
+    width: 85%;
+    padding: 1rem;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+    box-shadow: 5px 5px 13px black;
+}
 
+#reg-form {
+    padding-top: 6rem;
+}
 
 
 
