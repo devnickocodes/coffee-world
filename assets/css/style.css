@@ -379,6 +379,8 @@ form button {
     border: 1px solid #fff;
     color: white;
     background-color: rgba(153, 121, 80, 0.571);
+    font-size: 80%;
+    font-weight: 600;
 }
 
 /* Footer */
