@@ -491,6 +491,7 @@ footer>p {
     #sign-up-form {
         max-width: 40%;
     }
+
 }
 
 
@@ -520,6 +521,17 @@ footer>p {
     /* Coffee Types */
     .cards {
         grid-template-columns: repeat(3, 1fr);
+    }
+
+    /* Sign Up Page */
+    form button {
+        cursor: pointer;
+    }
+
+    form button:hover {
+        background-color: #ffffff;
+        color: rgba(153, 121, 80, alpha);
+        border: 1px solid rgba(153, 121, 80, alpha);
     }
 }
 
