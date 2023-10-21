@@ -229,6 +229,7 @@ u {
     width: 100%;
     background: url("/assets/images/coffee-types.jpg") no-repeat center center/cover;
     position: relative;
+    box-shadow: 2px 2px 5px #000000;
 }
 
 #coffee-types-cover {
