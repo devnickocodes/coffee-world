@@ -325,6 +325,7 @@ u {
 }
 
 
+
 #sign-up-form {
     background-color: rgba(0, 0, 0, .4);
     width: 85%;
@@ -342,7 +343,13 @@ u {
 
 #sign-up-form h1 {
     margin: 1rem;
-    font-size: 120%;
+    font-size: 140%;
+}
+
+/* Change the font size of the labels */
+.label-text {
+    font-size: 95%;
+    font-weight: 600;
 }
 
 #sign-up-form input {
