@@ -526,12 +526,13 @@ footer>p {
     /* Sign Up Page */
     form button {
         cursor: pointer;
+        width: 40%;
     }
 
     form button:hover {
         background-color: #ffffff;
-        color: rgba(153, 121, 80, alpha);
-        border: 1px solid rgba(153, 121, 80, alpha);
+        color: rgba(153, 121, 80, 8);
+        border: 1px solid rgba(153, 121, 80, 8);
     }
 }
 
