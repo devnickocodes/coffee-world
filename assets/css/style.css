@@ -146,6 +146,10 @@ main {
     text-transform: uppercase;
 }
 
+.color p{
+    font-weight: 200;
+}
+
 #facts {
     display: flex;
     flex-direction: row;
@@ -387,7 +391,7 @@ form button {
 
 /* Footer */
 footer {
-    background-color: #997950;
+    background-color: #5C2C06;
 }
 
 #social-links {
