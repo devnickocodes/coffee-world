@@ -42,6 +42,7 @@ h1 {
 header a {
     text-decoration: none;
     color: #ffffff;
+    text-transform: uppercase;
 }
 
 header label i {
