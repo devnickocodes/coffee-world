@@ -44,8 +44,7 @@ header a {
 }
 
 header label i {
-    color: #ffffff;
-    font-size: 4rem;
+    color: #fff;
 }
 
 #menu {
@@ -257,7 +256,7 @@ u {
 .cards {
     display: grid;
     flex-wrap: wrap;
-    grid-template-columns: repeat(autofill, minmax (225px, 1fr));
+    /* grid-template-columns: repeat(autofill, minmax (225px, 1fr)); */
     gap: 20px;
     margin-left: 1rem;
     margin-right: 1rem;
@@ -342,7 +341,7 @@ u {
     padding-top: 3rem;
 }
 
-#sign-up-form h1 {
+#sign-up-form h2 {
     margin: 1rem;
     font-size: 140%;
 }
@@ -541,8 +540,8 @@ footer>p {
 
     form button:hover {
         background-color: #ffffff;
-        color: rgba(153, 121, 80, 8);
-        border: 1px solid rgba(153, 121, 80, 8);
+        color: rgba(153, 121, 80, .8);
+        border: 1px solid rgba(153, 121, 80, .8);
     }
 
     #reg-form {
