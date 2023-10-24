@@ -388,6 +388,7 @@ form button {
     background-color: rgba(153, 121, 80, 0.571);
     font-size: 80%;
     font-weight: 600;
+    transition: .4s;
 }
 
 /* Footer */
@@ -437,20 +438,8 @@ footer>p {
 
 #footer-p a {
     text-decoration: none;
-    /* color: rgb(244, 204, 204); */
     color: #ffffff;
 }
-
-/* #footer-p a:hover {
-    color: rgb(255, 255, 255);
-} */
-
-
-
-
-
-
-
 
 /* Media query for screen sizes (313 and below) */
 @media screen and (max-width: 313px) {
