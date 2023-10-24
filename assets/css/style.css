@@ -186,7 +186,7 @@ main {
 
 /* Color for interesting facts text to contrast it from the background image*/
 .color {
-    background-color: rgba(241, 222, 198, 0.6);
+    background-color: rgba(241, 222, 198, 0.5);
     border-top-left-radius: 15px;
     border-bottom-right-radius: 15px;
     padding: 0.5rem;
@@ -412,6 +412,23 @@ footer>p {
     color: #ffffff;
     font-size: 130%;
     padding: 1rem;
+    transition: .3s;
+}
+
+.fa-facebook:hover{
+    color: #1877F2;
+}
+
+.fa-twitter:hover{
+    color: #1DA1F2;
+}
+
+.fa-youtube:hover{
+    color: #c4302b;
+}
+
+.fa-instagram:hover{
+    color: #ee2a7b;
 }
 
 #footer-p {
@@ -420,12 +437,13 @@ footer>p {
 
 #footer-p a {
     text-decoration: none;
-    color: rgb(244, 204, 204);
+    /* color: rgb(244, 204, 204); */
+    color: #ffffff;
 }
 
-#footer-p a:hover {
+/* #footer-p a:hover {
     color: rgb(255, 255, 255);
-}
+} */
 
 
 
