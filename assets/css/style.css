@@ -405,7 +405,7 @@ form button {
     margin: 0.2rem;
 }
 
-#sign-up #reg-form #sign-up-form{
+#sign-up #reg-form .log-in-form{
     margin-top: 3.5rem;
 }
 /* Footer */
