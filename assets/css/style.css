@@ -396,6 +396,9 @@ form button {
     transition: .4s;
 }
 
+#log-in{
+    font-size: 60%;
+}
 
 /* Footer */
 footer {
