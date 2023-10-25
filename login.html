@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Meta tags for search engines -->
+    <meta
+      name="description"
+      content="Coffee World. A cozy website for coffee lovers, enthusiasts with interesting info."
+    />
+    <meta
+      name="keywords"
+      content="coffee, coffee drinks, coffee types, hot drinks"
+    />
+    <!-- Title -->
+    <title>Coffee World</title>
+    <!-- Favicon -->
+    <link rel="icon" href="assets/favicon/favicon.ico" type="image/x-icon" />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+
+  <body>
+    <!-- Header -->
+    <header>
+      <a href="index.html">
+        <h1 id="logo">
+          Coffee World <i class="fa-solid fa-mug-hot fa-sm" id="h1-icon"></i>
+        </h1>
+      </a>
+      <input type="checkbox" name="check" id="check" />
+      <label for="check" class="check-lable"
+        ><i class="fa-solid fa-bars"></i
+      ></label>
+      <nav>
+        <ul id="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="coffee-types.html">Coffee Types</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
+          <li><a href="signup.html" class="active">Sign Up</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+      <section id="sign-up">
+        <div id="reg-form">
+          <form id="sign-up-form" method="POST" action="#">
+            <h2 id="log-in">Log In!</h2>
+            <br />
+            <label for="email_address" class="label-text">Email Address</label>
+            <br />
+            <input
+              type="email"
+              name="email_address"
+              id="email_address"
+              class="text-input"
+              required
+              placeholder="Enter Email Address"
+            />
+            <br />
+            <label for="password" class="label-text">Password</label>
+            <br />
+            <input
+              type="password"
+              name="password"
+              id="password"
+              class="password"
+              required
+              placeholder="Enter Password"
+            />
+            <br />
+            <button type="submit">Log In!</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <ul id="social-links">
+        <li>
+          <a
+            href="https://www.facebook.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our Facebook page(opens in a new tab)"
+            ><i class="fa-brands fa-facebook"></i
+          ></a>
+        </li>
+
+        <li>
+          <a
+            href="https://www.twitter.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our Twitter page(opens in a new tab)"
+            ><i class="fa-brands fa-twitter"></i
+          ></a>
+        </li>
+
+        <li>
+          <a
+            href="https://www.youtube.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our YouTube page(opens in a new tab)"
+            ><i class="fa-brands fa-youtube"></i
+          ></a>
+        </li>
+
+        <li>
+          <a
+            href="https://www.youtube.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our YouTube page(opens in a new tab)"
+            ><i class="fa-brands fa-instagram"></i
+          ></a>
+        </li>
+      </ul>
+
+      <p id="footer-p">
+        Created by
+        <a href="https://github.com/devnickocodes" target="_blank"
+          >Nikolay Hristev</a
+        >
+        for Code Institute's Portfolio Project 1
+      </p>
+    </footer>
+
+    <!-- FontAwesome  -->
+    <script
+      src="https://kit.fontawesome.com/000e8e8ae7.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

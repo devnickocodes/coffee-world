@@ -400,6 +400,14 @@ form button {
     font-size: 60%;
 }
 
+/* Log In Page */
+#log-in{
+    margin: 0.2rem;
+}
+
+#sign-up #reg-form #sign-up-form{
+    margin-top: 3.5rem;
+}
 /* Footer */
 footer {
     background-color: #613613;
