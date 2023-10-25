@@ -311,11 +311,14 @@ u {
 .card-content h2 {
     text-align: center;
     margin: 0.5rem;
+    color: rgba(92, 45, 6, 0.8);
 }
 
 .card-content p {
     text-align: center;
     margin: 0.5rem;
+    color: rgba(92, 45, 6, 0.8);
+    max-height: 100px;
 }
 
 .card-info a {
