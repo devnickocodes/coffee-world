@@ -465,6 +465,10 @@ footer>p {
         height: 500px;
         padding-bottom: 2rem;
     }
+
+    #log-in{
+        font-size: 70%;
+    }
 }
 
 /* Media query: tablets and larger (768px and up)*/
@@ -523,8 +527,7 @@ footer>p {
     #sign-up-form {
         max-width: 40%;
     }
-
-}
+      }
 
 
 /* Media query: laptops and larger screens (992px and up) */
