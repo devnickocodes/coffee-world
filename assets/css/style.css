@@ -318,7 +318,6 @@ u {
     text-align: center;
     margin: 0.5rem;
     color: rgba(92, 45, 6, 0.8);
-    max-height: 100px;
 }
 
 .card-info a {
@@ -547,6 +546,13 @@ footer>p {
     .card {
         height: 550px;
         padding-bottom: 2rem;
+    }
+
+    .card-content p {
+        text-align: center;
+        margin: 0.5rem;
+        color: rgba(92, 45, 6, 0.8);
+        font-weight: 600;
     }
 
     /* Sign Up Page */
