@@ -55,6 +55,9 @@ header label i {
     list-style-type: none;
 }
 
+#menu li a{
+    font-weight: 600;
+}
 #menu>li {
     margin-bottom: .7em;
 }
