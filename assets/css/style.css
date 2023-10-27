@@ -97,8 +97,7 @@ main {
     /* Make element take surplus space */
     flex: 1 0 auto;
     /* pushes content down so it is not hidden by the nav */
-    margin-top: 48px;
-
+    margin-top: 10px;
 }
 
 #main-page-color {
@@ -203,6 +202,7 @@ main {
 }
 
 /* Gallery */
+
 
 #gallery h2 {
     margin: 20px auto;
@@ -480,7 +480,10 @@ footer>p {
 
 /* Media query for screen sizes (313 and below) */
 @media screen and (max-width: 313px) {
-
+/* Header */
+#logo{
+    font-size: 120%;
+}
     /* hide font awesome icon on smaller devices */
     #h1-icon {
         display: none;
@@ -489,6 +492,7 @@ footer>p {
 
 /* Media query: screens 390px and below */
 @media screen and (min-width:390px) {
+    
     .card {
         height: 500px;
         padding-bottom: 2rem;
