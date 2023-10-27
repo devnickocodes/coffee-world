@@ -208,7 +208,7 @@ main {
     text-align: center;
     text-transform: uppercase;
     margin: 2.5rem 1rem;
-    
+    padding-top: 1rem;
 }
 
 #gallery h2 span {
@@ -538,7 +538,7 @@ footer>p {
     }
 
     #logo {
-        font-size: 140%;
+        font-size: 120%;
         line-height: 75px;
         margin: 0 0.5rem;
     }
