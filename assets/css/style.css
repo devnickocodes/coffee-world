@@ -203,12 +203,12 @@ main {
 
 /* Gallery */
 
-
 #gallery h2 {
-    margin: 20px auto;
+    /* margin: 20px auto; */
     text-align: center;
     text-transform: uppercase;
-    margin: 2rem 2rem;
+    margin: 2.5rem 1rem;
+    
 }
 
 #gallery h2 span {
@@ -216,7 +216,6 @@ main {
     color: #613613;
     padding: 0.5rem 0.5rem;
     border-radius: 6px;
-
 }
 
 u {
@@ -480,15 +479,25 @@ footer>p {
 
 /* Media query for screen sizes (313 and below) */
 @media screen and (max-width: 313px) {
-/* Header */
-#logo{
-    font-size: 120%;
-}
     /* hide font awesome icon on smaller devices */
     #h1-icon {
         display: none;
     }
 }
+
+/* Media query for screen sizes (355 and below) */
+@media screen and (max-width: 355px){
+    /* Adjust the logo font size for this screen size */
+
+    /* Header */
+#logo{
+    font-size: 120%;
+}
+    
+}
+
+
+
 
 /* Media query: screens 390px and below */
 @media screen and (min-width:390px) {
