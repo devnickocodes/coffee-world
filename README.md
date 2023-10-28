@@ -22,4 +22,6 @@ The objective for this project is to use purely HTML and CSS to create a static,
 
 The primary skeleton design for each of the pages for the website was created with Balsamiq.
 
+- Home
 
+![Homepage wireframe](https://github.com/devnickocodes/coffee-world/blob/main/documentation/home-page-wireframe.png)
