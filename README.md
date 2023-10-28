@@ -59,6 +59,19 @@ I imported the fonts for the website from [Google Fonts](https://fonts.google.co
 
 ![Oxygen](https://github.com/devnickocodes/coffee-world/blob/main/documentation/google-fonts-oxygen.png)
 
+## __Features__ 
+
+### __Common Elements__
+
+The following elements are seen on every page of the website while the user is going through it.
+
+- __Logo and Navigation Bar__
+    - The logo and navigation bar are shown on all of the pages across the website. They both have been made with having optimal responsiveness in mind. The name of the website as well as the coffee cup icon lead to the homepage when clicked and each link in the navigational bar leads to its relevant social page.
+
+     ![Logo and navigation bar menu](https://github.com/devnickocodes/coffee-world/blob/main/documentation/logo-nav-bar.png)
+
+     - __Favicon__
+    - The favicon of the browser tab makes the whole website cohesive and it represents the idea of the website.
 
 
 
