@@ -80,6 +80,11 @@ The following elements are seen on every page of the website while the user is g
 
     ![Footer](https://github.com/devnickocodes/coffee-world/blob/main/documentation/footer.png)
 
+### __Homepage__
+
+When the user opens the website this is the first page they would see.
+
+![Homepage](https://github.com/devnickocodes/coffee-world/blob/main/documentation/landing-page.png)
 
 
 
