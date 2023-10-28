@@ -106,8 +106,14 @@ The containers for each of the coffe types consist of an image on the top half o
 ![Coffee Types Container Section](https://github.com/devnickocodes/coffee-world/blob/main/documentation/coffee-types-containers.png)
 
 
-### __About Us__
+### __Gallery Page__
 
 On this page the user can find a gallery consisting of all kinds of images that are related to coffee. The gallery is displayed using Masonry layout as this layout gives an aesthetic touch to the gallery and the page itself. It is also responsive and on bigger screens there are three columns that go to two and finally one as the screen size gets smaller.
 
 ![Gallery Page](https://github.com/devnickocodes/coffee-world/blob/main/documentation/gallery-page.png)
+
+### __Sign Up Page__
+
+On this page the user can create their own personal account for the website that would allow them to share their own photos in the gallery, a button option to like or dislike. Bellow the information that the user needs to type in, in order for their account to be created there is an option for existing users that already have an account that takes them to the log in page.
+
+![Sign Up Page]()
