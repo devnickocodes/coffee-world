@@ -50,8 +50,14 @@ I chose the color scheme myself bearing in mind UI and UX. I am using [Coolors.c
 
 ![Colour Scheme](https://github.com/devnickocodes/coffee-world/blob/main/documentation/coolors-color-scheme.png)
 
+### __Typography__
 
+I imported the fonts for the website from [Google Fonts](https://fonts.google.com/specimen/Montserrat?query=montserrat
+) and I used the Montserrat font as the main font for the website and the Oxygen font for the headings.
 
+![Montserrat](https://github.com/devnickocodes/coffee-world/blob/main/documentation/google-fonts-montserrat.png)
+
+![Oxygen](https://github.com/devnickocodes/coffee-world/blob/main/documentation/google-fonts-oxygen.png)
 
 
 
