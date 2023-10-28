@@ -80,11 +80,12 @@ The following elements are seen on every page of the website while the user is g
 
     ![Footer](https://github.com/devnickocodes/coffee-world/blob/main/documentation/footer.png)
 
-### __Homepage__
+### __HomePage__
 
 When the user opens the website this is the first page they would see.
 
-    ![Homepage](https://github.com/devnickocodes/coffee-world/blob/main/documentation/landing-page.png)
+![Homepage](https://github.com/devnickocodes/coffee-world/blob/main/documentation/landing-page.png)
+
 
 - __Interesting Facts__
     - The interesting facts containers display four different interesting facts two on each row on bigger screens and one on each row on smaller screens that include - top three countries that drink the most coffee, the most expensive coffee in the world, health benefits of coffee and coffee varieties. In each one of the containers there is a background image and a background color behind the text for contrast and easy readability.
@@ -92,4 +93,16 @@ When the user opens the website this is the first page they would see.
 
     ![Interesting Facts](https://github.com/devnickocodes/coffee-world/blob/main/documentation/interesting-facts-section.png)
 
-### __Menu Page__
+### __Coffee Types Page__
+
+On this page the user can find a short description for some of the most popular coffee types that are consumed on a daily basis.
+
+![Coffee Types Page](https://github.com/devnickocodes/coffee-world/blob/main/documentation/coffee-types-page.png)
+
+- __Coffee Types Containers__
+
+The containers for each of the coffe types consist of an image on the top half of the container followed by the name of the drink and a short desrciption of the specific coffee type. Underneath the description there is a link that takes the user to the full article of that coffee type. The containers are responsive and there are nine coffee types displayed in three columns with three rows on bigger screens and as the screen gets smaller they are displayed in two columns and finally one column.
+
+![Coffee Types Container Section](https://github.com/devnickocodes/coffee-world/blob/main/documentation/coffee-types-page.png)
+
+
