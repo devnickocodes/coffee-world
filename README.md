@@ -33,3 +33,12 @@ The primary skeleton design for each of the pages for the website was created wi
 - Gallery
 
 ![Gallery wireframe](https://github.com/devnickocodes/coffee-world/blob/main/documentation/gallery-wireframe.png)
+
+- Sign Up
+
+![Sign Up wireframe](https://github.com/devnickocodes/coffee-world/blob/main/documentation/sign-up-page-wireframe.png)
+
+
+- Log In
+
+![Log In wireframe](https://github.com/devnickocodes/coffee-world/blob/main/documentation/log-in-page-wireframe.png)
