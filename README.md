@@ -18,3 +18,8 @@ The objective for this project is to use purely HTML and CSS to create a static,
 - I want anyone who visits this website to be able to navigate through it freely and easily.
 - I want the visitors to be excited to return to fine different interesting facts on coffee as well as different coffee pictures.
 
+### __Wireframes__
+
+The primary skeleton design for each of the pages for the website was created with Balsamiq.
+
+
