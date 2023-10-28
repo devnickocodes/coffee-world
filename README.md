@@ -3,4 +3,6 @@ Coffee World is a website that provides coffee lovers, enthusiasts and people wh
 
 The objective for this project is to use purely HTML and CSS to create a static, very accesible and responsive website, where it is easy for the user to find their way around.
 
-[Live link to website](https://devnickocodes.github.io/coffee-world/login.html)
+[Live link to website](https://devnickocodes.github.io/coffee-world/index.html)
+
+![Website mockup](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/mockup.png)
