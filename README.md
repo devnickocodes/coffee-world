@@ -156,5 +156,10 @@ View testing [here](TESTING.md)
 
 GitHub was used for the deployment of the website, click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch) for the steps.
 
+## __Credits__
 
+### __Code__
 
+- Some of the code is inspired by [Code Institute's](https://codeinstitute.net/) Love Running walkthrough project with some adjustments made for this website.
+- Some of the code for the Sign Up and Log In forms is inspired from [this YouTube video](https://www.youtube.com/watch?v=AHC43DVfjfo&ab_channel=TutorialsDev)
+- The [Masonry website](https://masonry.desandro.com/) helped with the styling of the gallery.
