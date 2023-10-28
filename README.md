@@ -7,3 +7,14 @@ The objective for this project is to use purely HTML and CSS to create a static,
 
 ![Website mockup](https://github.com/devnickocodes/coffee-world/blob/main/documentation/mock-up.png)
 
+
+## __UX & Design__
+
+### __Creator Stories__
+
+- I want to inform anyone who is interested in any kind of coffee and help people learn some interesting facts about coffee along the way.
+- I want this website to be responsive on a number of different devices.
+- I want this website to be accessible for as many people as possible.
+- I want anyone who visits this website to be able to navigate through it freely and easily.
+- I want the visitors to be excited to return to fine different interesting facts on coffee as well as different coffee pictures.
+
