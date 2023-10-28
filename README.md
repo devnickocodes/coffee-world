@@ -154,7 +154,7 @@ View testing [here](TESTING.md)
 
 ## Deployment
 
-
+GitHub was used for the deployment of the website, click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch) for the steps.
 
 
 
