@@ -29,3 +29,7 @@ The primary skeleton design for each of the pages for the website was created wi
 - Coffee Types
 
 ![Coffee Types wireframe](https://github.com/devnickocodes/coffee-world/blob/main/documentation/coffee-types-wireframe.png)
+
+- Gallery
+
+![Gallery wireframe](https://github.com/devnickocodes/coffee-world/blob/main/documentation/gallery-wireframe.png)
