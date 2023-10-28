@@ -103,6 +103,6 @@ On this page the user can find a short description for some of the most popular 
 
 The containers for each of the coffe types consist of an image on the top half of the container followed by the name of the drink and a short desrciption of the specific coffee type. Underneath the description there is a link that takes the user to the full article of that coffee type. The containers are responsive and there are nine coffee types displayed in three columns with three rows on bigger screens and as the screen gets smaller they are displayed in two columns and finally one column.
 
-![Coffee Types Container Section](https://github.com/devnickocodes/coffee-world/blob/main/documentation/coffee-types-page.png)
+![Coffee Types Container Section](https://github.com/devnickocodes/coffee-world/blob/main/documentation/coffee-types-containers.png)
 
 
