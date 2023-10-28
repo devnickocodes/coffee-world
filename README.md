@@ -5,4 +5,3 @@ The objective for this project is to use purely HTML and CSS to create a static,
 
 [Live link to website](https://devnickocodes.github.io/coffee-world/index.html)
 
-![Website mockup](/workspaces/coffee-world/documentation/wireframes/mock-up.png)
