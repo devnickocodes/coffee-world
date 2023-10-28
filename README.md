@@ -84,8 +84,12 @@ The following elements are seen on every page of the website while the user is g
 
 When the user opens the website this is the first page they would see.
 
-![Homepage](https://github.com/devnickocodes/coffee-world/blob/main/documentation/landing-page.png)
+    ![Homepage](https://github.com/devnickocodes/coffee-world/blob/main/documentation/landing-page.png)
+
+- __Interesting Facts__
+    - The interesting facts containers display four different interesting facts two on each row on bigger screens and one on each row on smaller screens that include - top three countries that drink the most coffee, the most expensive coffee in the world, health benefits of coffee and coffee varieties. In each one of the containers there is a background image and a background color behind the text for contrast and easy readability.
 
 
+    ![Interesting Facts](https://github.com/devnickocodes/coffee-world/blob/main/documentation/interesting-facts-section.png)
 
-
+### __Menu Page__
