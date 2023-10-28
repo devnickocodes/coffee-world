@@ -25,3 +25,7 @@ The primary skeleton design for each of the pages for the website was created wi
 - Home
 
 ![Homepage wireframe](https://github.com/devnickocodes/coffee-world/blob/main/documentation/home-page-wireframe.png)
+
+- Coffee Types
+
+![Coffee Types wireframe](https://github.com/devnickocodes/coffee-world/blob/main/documentation/coffee-types-wireframe.png)
