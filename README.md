@@ -106,3 +106,8 @@ The containers for each of the coffe types consist of an image on the top half o
 ![Coffee Types Container Section](https://github.com/devnickocodes/coffee-world/blob/main/documentation/coffee-types-containers.png)
 
 
+### __About Us__
+
+On this page the user can find a gallery consisting of all kinds of images that are related to coffee. The gallery is displayed using Masonry layout as this layout gives an aesthetic touch to the gallery and the page itself. It is also responsive and on bigger screens there are three columns that go to two and finally one as the screen size gets smaller.
+
+![Gallery Page](https://github.com/devnickocodes/coffee-world/blob/main/documentation/gallery-page.png)
