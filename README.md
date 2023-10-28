@@ -70,8 +70,10 @@ The following elements are seen on every page of the website while the user is g
 
      ![Logo and navigation bar menu](https://github.com/devnickocodes/coffee-world/blob/main/documentation/logo-nav-bar.png)
 
-     - __Favicon__
+- __Favicon__
     - The favicon of the browser tab makes the whole website cohesive and it represents the idea of the website.
+
+     ![Favicon](https://github.com/devnickocodes/coffee-world/blob/main/assets/favicon/favicon-32x32.png)
 
 
 
