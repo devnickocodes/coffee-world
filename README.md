@@ -42,3 +42,19 @@ The primary skeleton design for each of the pages for the website was created wi
 - Log In
 
 ![Log In wireframe](https://github.com/devnickocodes/coffee-world/blob/main/documentation/log-in-page-wireframe.png)
+
+### __Colour Scheme__
+
+
+I chose the color scheme myself bearing in mind UI and UX. I am using [Coolors.co](https://github.com/devnickocodes/coffee-world/blob/main/documentation/coolors-color-scheme.png) to easily display the color scheme of the website.
+
+
+
+
+
+
+
+
+
+
+
