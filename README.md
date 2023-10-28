@@ -123,3 +123,38 @@ On this page the user can create their own personal account for the website that
 This page allows the user to log into their account.
 
 ![Log In Page](https://github.com/devnickocodes/coffee-world/blob/main/documentation/log-in-page.png)
+
+### __Features Left to Implement__
+
+- __Profile System__
+    - I plan on creating a profile system that once the user has made an account and is logged in they would be able to click a like or a dislike button that would show under each photo.
+
+### __Technologies Used__
+
+The list bellow consists of all the technologies that were used in the making of this website.
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
+    - The structure of the website was created with HTML5.
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    - The styling of the website was created with CSS3.
+- [Font Awesome](https://fontawesome.com/)
+    - The icons of the website were imported from Font Awesome.
+- [Google Fonts](https://fonts.google.com/)
+    - The Montserrat and Oxygen font families were imported from Google Fonts.
+- [Github](https://github.com/)
+    - For storage of the website's code as well as deployment, Github was used.
+ [Git](https://git-scm.com/)
+    - Git commands were used in the IDE for version control.
+- [Balsamiq](https://balsamiq.com/)
+    - The wireframe designs for the website were created with Balsamiq.
+
+## __Testing__ 
+
+View testing [here](TESTING.md)
+
+## Deployment
+
+
+
+
+
