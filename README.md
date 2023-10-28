@@ -75,7 +75,10 @@ The following elements are seen on every page of the website while the user is g
 
      ![Favicon](https://github.com/devnickocodes/coffee-world/blob/main/assets/favicon/android-chrome-192x192.png)
 
+- __The Footer__
+    - The footer is displayed on the bottom of every page of the website. It includes social media links as well as a link to the GitHub website.
 
+    ![Footer](https://github.com/devnickocodes/coffee-world/blob/main/documentation/footer.png)
 
 
 
