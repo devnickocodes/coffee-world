@@ -116,4 +116,4 @@ On this page the user can find a gallery consisting of all kinds of images that 
 
 On this page the user can create their own personal account for the website that would allow them to share their own photos in the gallery, a button option to like or dislike. Bellow the information that the user needs to type in, in order for their account to be created there is an option for existing users that already have an account that takes them to the log in page.
 
-![Sign Up Page]()
+![Sign Up Page](https://github.com/devnickocodes/coffee-world/blob/main/documentation/sign-up-page.png)
