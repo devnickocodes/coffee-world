@@ -122,4 +122,4 @@ On this page the user can create their own personal account for the website that
 
 This page allows the user to log into their account.
 
-![Log In Page]()
+![Log In Page](https://github.com/devnickocodes/coffee-world/blob/main/documentation/log-in-page.png)
