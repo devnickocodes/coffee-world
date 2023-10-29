@@ -156,7 +156,60 @@ GitHub was used for the deployment of the website, click [here](https://docs.git
 ## __Credits__
 
 ### __Code__
-
+     
 - Some of the code is inspired by [Code Institute's](https://codeinstitute.net/) Love Running walkthrough project with some adjustments made for this website.
 - Some of the code for the Sign Up and Log In forms is inspired from [this YouTube video](https://www.youtube.com/watch?v=AHC43DVfjfo&ab_channel=TutorialsDev)
 - The [Masonry website](https://masonry.desandro.com/) helped with the styling of the gallery.
+
+### __Design__
+[Balsamiq](https://balsamiq.com/) was used to create the wireframes for the website.
+
+### __Content__
+- The fonts for the website were imported from [Google Fonts](https://fonts.google.com/)
+- The full content for the most coffee consumed per person can be found [here](https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country)
+- The full content for the most expensive coffee can be found [here](https://www.theceomagazine.com/lifestyle/food-beverage/expensive-coffee/)
+- The full content for the different coffee varieties can be found [here](https://www.theceomagazine.com/lifestyle/food-beverage/expensive-coffee/)
+- The full content for health benefits of coffee can be found [here](https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-reasons-why-the-right-amount-of-coffee-is-good-for-you)
+- The full content for the coffee types page can be found [here](https://www.nescafe.com/in/coffee-types)
+
+### __Media__
+- The favicon was downloaded from [Favicon.io](https://favicon.io/emoji-favicons/hot-beverage/)
+- All the photos of the website were downloaded from [Pexels](https://www.pexels.com/)
+- The mockup for the website on the different devices for the README file was created with [ui.dev](https://ui.dev/amiresponsive) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
