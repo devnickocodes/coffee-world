@@ -88,3 +88,7 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
 
 ![Samsung Galaxy S9 Log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s9-testing-log-in.JPG)
 
+- ## __Apple iPad Pro 12.9-inch, 4th generation__ 
+
+- Home Page
+  
