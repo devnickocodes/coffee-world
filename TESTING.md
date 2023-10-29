@@ -132,3 +132,13 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
 
 ![Samsung Galaxy S21 Log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s21-testing-log-in.jpg)
 
+
+### __Validator Testing__ 
+
+- __HTML__
+  
+    - No errors were discovered after running the code through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2F)
+
+    
+
+
