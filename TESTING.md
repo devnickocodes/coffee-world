@@ -24,7 +24,25 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
 
 -Dell Vostro 3510
 
-- Home 
+- Home Page
   
-![Dell Laptop Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/chrome-browser-testing.png)
+![Dell Laptop Home Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/chrome-browser-testing.png)
+
+- Coffee Types Page
+
+![Dell Laptop Coffee Types Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/dell-testing-coffee-types.png)
+
+- Gallery Page
+
+![Dell Laptop Gallery Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/dell-testing-gallery.png)
+
+- Sign Up Page
+
+![Dell Laptop Sign Up Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/dell-testing-sign-up.png)
+
+- Log In Page
+
+![Dell Laptop Log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/dell-testing-log-in.pngv)
+
+
 
