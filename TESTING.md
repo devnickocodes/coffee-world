@@ -48,3 +48,20 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
 
 - Home Page
 
+![iPhone 12 Home Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/iphone12-testing-home.jpeg)
+
+- Coffee Types Page
+
+![iPhone 12 Coffee Types Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/iphone12-testing-coffee-types.jpeg)
+
+- Gallery Page
+
+![iPhone 12 Gallery Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/iphone12-testing-gallery.jpeg)
+
+- Sign Up Page
+
+![iPhone 12 Sign Up Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/iphone12-testing-sign-up.jpeg)
+
+- Log In Page
+
+![iPhone 12 Log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/iphone12-testing-log-in.jpeg)
