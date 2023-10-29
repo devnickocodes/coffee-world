@@ -143,7 +143,7 @@ The list bellow consists of all the technologies that were used in the making of
 - [Balsamiq](https://balsamiq.com/)
 - The wireframe designs for the website were created with Balsamiq.
 
-## __Testing__ 
+## __Testing__
 
 View testing [here](TESTING.md)
 
@@ -180,38 +180,3 @@ GitHub was used for the deployment of the website, click [here](https://docs.git
 - Jubril Akolade - My Code Institute Mentor.
 - The Code Institute Tutor Support - For their awesome and quick technical help. 
 - Thank you to everyone who took the time to look over the website and gave very valuable pieces of advice.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
