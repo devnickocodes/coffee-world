@@ -7,7 +7,6 @@ The objective for this project is to use purely HTML and CSS to create a static,
 
 ![Website mockup](https://github.com/devnickocodes/coffee-world/blob/main/documentation/mock-up.png)
 
-
 ## __UX & Design__
 
 ### __Creator Stories__
@@ -38,13 +37,11 @@ The primary skeleton design for each of the pages for the website was created wi
 
 ![Sign Up wireframe](https://github.com/devnickocodes/coffee-world/blob/main/documentation/sign-up-page-wireframe.png)
 
-
 - Log In
 
 ![Log In wireframe](https://github.com/devnickocodes/coffee-world/blob/main/documentation/log-in-page-wireframe.png)
 
 ### __Colour Scheme__
-
 
 I chose the color scheme myself bearing in mind UI and UX. I am using [Coolors.co](https://coolors.co/613613-997950-5c2c06-6e4e24-ebbdbd-997950-f0e7e7) to easily display the color scheme of the website.
 
@@ -59,19 +56,19 @@ I imported the fonts for the website from [Google Fonts](https://fonts.google.co
 
 ![Oxygen](https://github.com/devnickocodes/coffee-world/blob/main/documentation/google-fonts-oxygen.png)
 
-## __Features__ 
+## __Features__
 
 ### __Common Elements__
 
 The following elements are seen on every page of the website while the user is going through it.
 
 - __Logo and Navigation Bar__
-    - The logo and navigation bar are shown on all of the pages across the website. They both have been made with having optimal responsiveness in mind. The name of the website as well as the coffee cup icon lead to the homepage when clicked and each link in the navigational bar leads to its relevant social page.
+   - The logo and navigation bar are shown on all of the pages across the website. They both have been made with having optimal responsiveness in mind. The name of the website as well as the coffee cup icon lead to the homepage when clicked and each link in the navigational bar leads to its relevant social page.
 
      ![Logo and navigation bar menu](https://github.com/devnickocodes/coffee-world/blob/main/documentation/logo-nav-bar.png)
 
 - __Favicon__
-    - The favicon of the browser tab makes the whole website cohesive and it represents the idea of the website.
+   - The favicon of the browser tab makes the whole website cohesive and it represents the idea of the website.
 
      ![Favicon](https://github.com/devnickocodes/coffee-world/blob/main/assets/favicon/android-chrome-192x192.png)
 
