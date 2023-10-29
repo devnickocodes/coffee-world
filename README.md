@@ -177,7 +177,11 @@ GitHub was used for the deployment of the website, click [here](https://docs.git
 - All the photos of the website were downloaded from [Pexels](https://www.pexels.com/)
 - The mockup for the website on the different devices for the README file was created with [ui.dev](https://ui.dev/amiresponsive) 
 
+### __Acknowledgements__
 
+- Jubril Akolade - My Code Institute Mentor.
+- The Code Institute Tutor Support - For their awesome and quick technical help. 
+- Thank you to everyone who took the time to look over the website and gave very valuable pieces of advice.
 
 
 
