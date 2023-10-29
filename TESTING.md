@@ -108,8 +108,27 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
 
 - Log In Page
 
-![iPad Pro log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ipadpro-testing-log-in.PNG)
+![iPad Pro Log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ipadpro-testing-log-in.PNG)
 
+- ## __Samsung Galaxy S21__ 
 
+- Home Page
 
+![Samsung Galaxy S21 Home Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s21-testing-home.jpg)
+
+- Coffee Types Page
+
+![Samsung Galaxy S21 Coffee Types Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s21-testing-coffee-types.jpg)
+
+- Gallery Page
+
+![Samsung Galaxy S21 Gallery Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s21-testing-gallery.jpg)
+
+- Sign Up Page
+
+![Samsung Galaxy S21 Sign Up Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s21-testing-sign-up.jpg)
+
+- Log In Page
+
+![Samsung Galaxy S21 Log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s21-testing-log-in.jpg)
 
