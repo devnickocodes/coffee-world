@@ -44,5 +44,7 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
 
 ![Dell Laptop Log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/dell-testing-log-in.png)
 
+- ## __iPhone 12__ 
 
+- Home Page
 
