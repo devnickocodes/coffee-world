@@ -66,6 +66,25 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
 
 ![iPhone 12 Log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/iphone12-testing-log-in.jpeg)
 
-- ## __iSamsung Galaxy S9__ 
+- ## __Samsung Galaxy S9__ 
 
 - Home Page
+
+![Samsung Galaxy S9 Home Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s9-testing-home.JPG)
+
+- Coffee Types Page
+
+![Samsung Galaxy S9 Coffee Types Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s9-testing-coffee-types.JPG)
+
+- Gallery Page
+
+![Samsung Galaxy S9 Gallery Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s9-testing-gallery.JPG)
+
+- Sign Up
+
+![Samsung Galaxy S9 Sign Up Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s9-testing-sign-up.JPG)
+
+- Log In
+
+![Samsung Galaxy S9 Log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/samsung-galaxy-s9-testing-log-in.JPG)
+
