@@ -22,7 +22,7 @@ After the deployment of the website I tested it on the three main browsers, Chro
 
 I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 12, iPhone 13 Pro, Apple iPad Pro 12.9-inch, 4th generation, Samsung Galaxy S9 and Samsung Galaxy S21. The website loaded very smoothly and the responsiveness of the website adjusted for each screen size.
 
--Dell Vostro 3510
+- ## __Dell Vostro 3510__ 
 
 - Home Page
   
@@ -42,7 +42,7 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
 
 - Log In Page
 
-![Dell Laptop Log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/dell-testing-log-in.pngv)
+![Dell Laptop Log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/dell-testing-log-in.png)
 
 
 
