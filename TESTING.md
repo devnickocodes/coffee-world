@@ -8,3 +8,12 @@ After the deployment of the website I tested it on the three main browsers, Chro
 
 - Chrome
 
+![Chrome Browser Testing]()
+
+- Edge 
+
+![Edge Browser Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/edge-browser-testing.png)
+
+- Mozilla Firefox
+
+![Mozilla Firefox Browser Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/mozilla-browser-testing.png)
