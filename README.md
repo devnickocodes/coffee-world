@@ -166,11 +166,11 @@ GitHub was used for the deployment of the website, click [here](https://docs.git
 
 ### __Content__
 - The fonts for the website were imported from [Google Fonts](https://fonts.google.com/)
-- The full content for the most coffee consumed per person can be found [here](https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country)
-- The full content for the most expensive coffee can be found [here](https://www.theceomagazine.com/lifestyle/food-beverage/expensive-coffee/)
-- The full content for the different coffee varieties can be found [here](https://www.theceomagazine.com/lifestyle/food-beverage/expensive-coffee/)
-- The full content for health benefits of coffee can be found [here](https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-reasons-why-the-right-amount-of-coffee-is-good-for-you)
-- The full content for the coffee types page can be found [here](https://www.nescafe.com/in/coffee-types)
+- The full content for the most coffee consumed per person can be found [worldpopulationreview.com](https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country)
+- The full content for the most expensive coffee can be found on [theceomagazine.com](https://www.theceomagazine.com/lifestyle/food-beverage/expensive-coffee/)
+- The full content for the different coffee varieties can be found [counterculturecoffee.com](https://counterculturecoffee.com/blogs/counter-culture-coffee/coffee-basics-varieties#:~:text=What%20Variety%20Is%20My%20Coffee,canephora%E2%80%94commonly%20known%20as%20robusta.)
+- The full content for health benefits of coffee can be found [hopkinsmedicine.org](https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-reasons-why-the-right-amount-of-coffee-is-good-for-you)
+- The full content for the coffee types page can be found [nescafe.com](https://www.nescafe.com/in/coffee-types)
 
 ### __Media__
 - The favicon was downloaded from [Favicon.io](https://favicon.io/emoji-favicons/hot-beverage/)
