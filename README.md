@@ -1,4 +1,5 @@
 # __Coffee World - Portfolio Project 1__
+
 Coffee World is a website that provides coffee lovers, enthusiasts and people who are just beginning their journey with coffee, different interesting facts about it. The website also provides a short description of some of the most popular types of coffee drinks, as well as a gallery with all kinds of images of coffees, the website also allows the user to sign up or log in to the website if they already have an existing account.
 
 The objective for this project is to use purely HTML and CSS to create a static, very accesible and responsive website, where it is easy for the user to find their way around.
@@ -63,17 +64,17 @@ I imported the fonts for the website from [Google Fonts](https://fonts.google.co
 The following elements are seen on every page of the website while the user is going through it.
 
 - __Logo and Navigation Bar__
-   - The logo and navigation bar are shown on all of the pages across the website. They both have been made with having optimal responsiveness in mind. The name of the website as well as the coffee cup icon lead to the homepage when clicked and each link in the navigational bar leads to its relevant social page.
+- The logo and navigation bar are shown on all of the pages across the website. They both have been made with having optimal responsiveness in mind. The name of the website as well as the coffee cup icon lead to the homepage when clicked and each link in the navigational bar leads to its relevant social page.
 
      ![Logo and navigation bar menu](https://github.com/devnickocodes/coffee-world/blob/main/documentation/logo-nav-bar.png)
 
 - __Favicon__
-   - The favicon of the browser tab makes the whole website cohesive and it represents the idea of the website.
+- The favicon of the browser tab makes the whole website cohesive and it represents the idea of the website.
 
      ![Favicon](https://github.com/devnickocodes/coffee-world/blob/main/assets/favicon/android-chrome-192x192.png)
 
 - __The Footer__
-    - The footer is displayed on the bottom of every page of the website. It includes social media links as well as a link to the GitHub website.
+- The footer is displayed on the bottom of every page of the website. It includes social media links as well as a link to the GitHub website.
 
     ![Footer](https://github.com/devnickocodes/coffee-world/blob/main/documentation/footer.png)
 
@@ -83,10 +84,8 @@ When the user opens the website this is the first page they would see.
 
 ![Homepage](https://github.com/devnickocodes/coffee-world/blob/main/documentation/landing-page.png)
 
-
 - __Interesting Facts__
-    - The interesting facts containers display four different interesting facts two on each row on bigger screens and one on each row on smaller screens that include - top three countries that drink the most coffee, the most expensive coffee in the world, health benefits of coffee and coffee varieties. In each one of the containers there is a background image and a background color behind the text for contrast and easy readability.
-
+- The interesting facts containers display four different interesting facts two on each row on bigger screens and one on each row on smaller screens that include - top three countries that drink the most coffee, the most expensive coffee in the world, health benefits of coffee and coffee varieties. In each one of the containers there is a background image and a background color behind the text for contrast and easy readability.
 
     ![Interesting Facts](https://github.com/devnickocodes/coffee-world/blob/main/documentation/interesting-facts-section.png)
 
@@ -101,7 +100,6 @@ On this page the user can find a short description for some of the most popular 
 The containers for each of the coffe types consist of an image on the top half of the container followed by the name of the drink and a short desrciption of the specific coffee type. Underneath the description there is a link that takes the user to the full article of that coffee type. The containers are responsive and there are nine coffee types displayed in three columns with three rows on bigger screens and as the screen gets smaller they are displayed in two columns and finally one column.
 
 ![Coffee Types Container Section](https://github.com/devnickocodes/coffee-world/blob/main/documentation/coffee-types-containers.png)
-
 
 ### __Gallery Page__
 
@@ -124,26 +122,26 @@ This page allows the user to log into their account.
 ### __Features Left to Implement__
 
 - __Profile System__
-    - I plan on creating a profile system that once the user has made an account and is logged in they would be able to click a like or a dislike button that would show under each photo.
+- I plan on creating a profile system that once the user has made an account and is logged in they would be able to click a like or a dislike button that would show under each photo.
 
 ### __Technologies Used__
 
 The list bellow consists of all the technologies that were used in the making of this website.
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
-    - The structure of the website was created with HTML5.
+- The structure of the website was created with HTML5.
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    - The styling of the website was created with CSS3.
+- The styling of the website was created with CSS3.
 - [Font Awesome](https://fontawesome.com/)
-    - The icons of the website were imported from Font Awesome.
+- The icons of the website were imported from Font Awesome.
 - [Google Fonts](https://fonts.google.com/)
-    - The Montserrat and Oxygen font families were imported from Google Fonts.
+- The Montserrat and Oxygen font families were imported from Google Fonts.
 - [Github](https://github.com/)
-    - For storage of the website's code as well as deployment, Github was used.
+- For storage of the website's code as well as deployment, Github was used.
  [Git](https://git-scm.com/)
-    - Git commands were used in the IDE for version control.
+- Git commands were used in the IDE for version control.
 - [Balsamiq](https://balsamiq.com/)
-    - The wireframe designs for the website were created with Balsamiq.
+- The wireframe designs for the website were created with Balsamiq.
 
 ## __Testing__ 
 
