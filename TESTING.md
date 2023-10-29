@@ -91,4 +91,25 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
 - ## __Apple iPad Pro 12.9-inch, 4th generation__ 
 
 - Home Page
-  
+
+![iPad Pro Home Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ipadpro-testing-home.PNG)
+
+- Coffee Types Page
+
+![iPad Pro Coffee Types Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ipadpro-testing-coffee-types.PNG)
+
+- Gallery Page
+
+![iPad Pro Gallery Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ipadpro-testing-gallery.PNG)
+
+- Sign Up Page 
+
+![iPad Pro Sign Up Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ipadpro-testing-sign-up.PNG)
+
+- Log In Page
+
+![iPad Pro log In Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ipadpro-testing-log-in.PNG)
+
+
+
+
