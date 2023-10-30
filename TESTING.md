@@ -139,6 +139,10 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
   
     - No errors were discovered after running the code through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2F)
 
-    
+    ![Full Site HTML5 Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/html5-validator-full-website.png)
+
+     - [Home Page HTML5 Validation on the website](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2Fcoffee-types.html)
+     - 
+    ![Home Page HTML5 Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/html5-validator-home.png)
 
 
