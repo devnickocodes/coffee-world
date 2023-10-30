@@ -187,11 +187,27 @@ The performance of the website was tested with Lighthouse, a feature that is par
 
 ### __ADA Testing__
 
+The website was tested for ADA compliancy, which stands for the Americans with Disabilities Act for Accessible Design. Every page of the website passed the check. I used the [Accessibe Website](https://accessibe.com/) to do the teasting.
 
+ - Home Page ADA Testing
 
+![Home Page ADA Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ADA-compliant-home-page.png)
 
+ - Coffee Types Page ADA Testing
 
+![Coffee Types Page ADA Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ADA-compliant-coffee-types-page.png)
 
+ - Gallery Page ADA Testing
+
+![Gallery Page ADA Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ADA-compliant-gallery-page.png)
+
+ - Sign Up Page ADA Testing
+
+![Sign Up Page ADA Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ADA-compliant-sign-up-page.png)
+
+ - Log In Page ADA Testing
+
+![Log In Page ADA Testing]()
 
 
 
