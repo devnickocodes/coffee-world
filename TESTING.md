@@ -141,8 +141,19 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
 
     ![Full Site HTML5 Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/html5-validator-full-website.png)
 
-     - [Home Page HTML5 Validation on the website](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2Fcoffee-types.html)
-     - 
+     - [Home Page HTML5 Validation on the website](https://devnickocodes.github.io/coffee-world/index.html)
     ![Home Page HTML5 Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/html5-validator-home.png)
 
+     - [Coffee Types Page HTML5 Validation on the website](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2Fcoffee-types.html)
+    ![Coffee Types Page HTML5 Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/html5-validator-coffee-types.png)
 
+     - [Gallery Page HTML5 Validation on the website](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2Fgallery.html)
+     ![Gallery Page HTML5 Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/html5-validator-gallery.png)
+
+    - [Sign Up Page HTML5 Validation on the website](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2Fsignup.html)
+     ![Sign Up Page HTML5 Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/html5-validator-sign-up.png)
+
+     - [log In Page HTML5 Validation on the website](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2Flogin.html)
+     ![Log In Page HTML5 Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/html5-validator-log-in.png)
+
+     
