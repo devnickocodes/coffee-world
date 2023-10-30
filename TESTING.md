@@ -184,3 +184,14 @@ The performance of the website was tested with Lighthouse, a feature that is par
 - Log In Page Lighthouse Testing
 
 ![Log In Page Lighthouse Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/lighthouse-log-in.png)
+
+### __ADA Testing__
+
+
+
+
+
+
+
+
+
