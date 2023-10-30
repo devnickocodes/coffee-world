@@ -124,6 +124,9 @@ This page allows the user to log into their account.
 - __Profile System__
 - I plan on creating a profile system that once the user has made an account and is logged in they would be able to click a like or a dislike button that would show under each photo.
 
+- __Back To Top Button__
+- I plan on creating a back to top button on each one of the pages.
+
 ### __Technologies Used__
 
 The list bellow consists of all the technologies that were used in the making of this website.
