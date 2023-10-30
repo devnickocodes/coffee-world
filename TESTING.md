@@ -165,11 +165,22 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
 
 The performance of the website was tested with Lighthouse, a feature that is part of Google Chrome's Developer Tools.
 
-- Home Page Lighthouse testing
+- Home Page Lighthouse Testing
 
-![Home Page Lighthouse Testing]()
+![Home Page Lighthouse Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/lighthouse-index.png)
 
+- Coffee Types Page Lighthouse Testing
 
+![Coffee Types Lighthouse Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/lighthouse-coffee-types.png)
 
+- Gallery Page Lighthouse Testing
 
+![Gallery Page Lighthouse Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/lighthouse-gallery.png)
 
+- Sign Up Page Lighthouse Testing
+
+![Sign Up Page Lighthouse Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/lighthouse-sign-up.png)
+
+- Log In Page Lighthouse Testing
+
+![Log In Page Lighthouse Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/lighthouse-log-in.png)
