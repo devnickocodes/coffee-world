@@ -153,7 +153,11 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
     - [Sign Up Page HTML5 Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2Fsignup.html)
      ![Sign Up Page HTML5 Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/html5-validator-sign-up.png)
 
-     - [log In Page HTML5 Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2Flogin.html)
+     - [Log In Page HTML5 Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2Flogin.html)
      ![Log In Page HTML5 Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/html5-validator-log-in.png)
 
-     
+     - __CSS__
+    - The CSS code checked out with no errors [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdevnickocodes.github.io%2Fcoffee-world%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    
+    ![CSS Code Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/css-validator-results.png)
+
