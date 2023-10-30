@@ -207,7 +207,7 @@ The website was tested for ADA compliancy, which stands for the Americans with D
 
  - Log In Page ADA Testing
 
-![Log In Page ADA Testing]()
+![Log In Page ADA Testing](https://github.com/devnickocodes/coffee-world/blob/main/documentation/ADA-compliant-log-in-page.png)
 
 
 
