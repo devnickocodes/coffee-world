@@ -161,3 +161,15 @@ I tested the website on a couple of different devices: Dell Vostro 3510, iPhone 
     
     ![CSS Code Validation](https://github.com/devnickocodes/coffee-world/blob/main/documentation/css-validator-results.png)
 
+### __Performance Testing__
+
+The performance of the website was tested with Lighthouse, a feature that is part of Google Chrome's Developer Tools.
+
+- Home Page Lighthouse testing
+
+![Home Page Lighthouse Testing]()
+
+
+
+
+
