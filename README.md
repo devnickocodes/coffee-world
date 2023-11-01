@@ -152,7 +152,13 @@ View testing [here](TESTING.md)
 
 ## Deployment
 
-GitHub was used for the deployment of the website, click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch) for the steps.
+Below are the steps for the deployment of the website through GitHub pages.
+
+ - On the [GitHub Repository Page](https://github.com/devnickocodes/coffee-world, find and click on the settings tab.
+ - On the left side from the tab with options click on Pages.
+ - From the dropdown menu under Branch, select the Main branch and click Save.
+ - The page will refresh and a link to the live website should appear on the top of the page.
+
 
 ## __Credits__
 
