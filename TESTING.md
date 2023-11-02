@@ -63,9 +63,10 @@ Find in the below table the manual teating I performed.
 | Navbar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
 | Navbar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
 | Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
-
-
-
+| Footer Links | Each one of the four social media icons should open in a new tab their respective social media | Click on each one of the four social media icons | Each social media icons leads to its respective social media website | Pass |
+| Author Name Link | Opens the Github Page of the author in a new tab | Click on the Author Name link | Opens the Github Page of the author in a new tab | Pass | 
+| The Input Fields | When targeted/active the border of each of the input fields should become thicker | Clicked on each of the input fields | The border of each of the input fields becomes thicker | Pass |
+| The Log In Button | The background color and the color of the text inside the button should swap when hovered | Hovered on the Log In Button | The background color and the color of the text inside the button swapped | Pass |
 
 
 
