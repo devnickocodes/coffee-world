@@ -12,8 +12,8 @@ Find in the below table the manual teating I performed.
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
 | The Site's title and logo | The link takes the user to the homepage | Clicked on the title/logo | Reloads the homepage | Pass |
-| Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
-| Nabar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
+| Navbar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
+| Navbar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
 | Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
 | Footer Links | Each one of the four social media icons should open in a new tab their respective social media | Click on each one of the four social media icons | Each social media icons leads to its respective social media website | Pass |
 | Author Name Link | Opens the Github Page of the author in a new tab | Click on the Author Name link | Opens the Github Page of the author in a new tab | Pass |
@@ -24,28 +24,29 @@ Find in the below table the manual teating I performed.
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
 | The Site's title and logo | The link takes the user to the homepage | Clicked on the title/logo | Takes the user back to the homepage | Pass |
-| Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
-| Nabar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
+| Navbar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
+| Navbar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
 | Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
 | Footer Links | Each one of the four social media icons should open in a new tab their respective social media | Click on each one of the four social media icons | Each social media icons leads to its respective social media website | Pass |
 | Author Name Link | Opens the Github Page of the author in a new tab | Click on the Author Name link | Opens the Github Page of the author in a new tab | Pass |
 | View Article Links | The background color of each one of the View Article links should change when the user hovers on it | Hover on each one of the View Article links | The background color of each one of the View Article changed | Pass |
 | View Article Links | When the user clicks on any of the View Article links they should be directed to the full article on the external website in a new tab | Click on each one of the View Article links | Opens a new tab to the respective coffee type on the external website | Pass |
-
+ 
 `Gallery Page`
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
 | The Site's title and logo | The link takes the user to the homepage | Clicked on the title/logo | Takes the user back to the homepage | Pass |
-| Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
-| Nabar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
+| Navbar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
+| Navbar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
 | Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
-
+| Footer Links | Each one of the four social media icons should open in a new tab their respective social media | Click on each one of the four social media icons | Each social media icons leads to its respective social media website | Pass |
+| Author Name Link | Opens the Github Page of the author in a new tab | Click on the Author Name link | Opens the Github Page of the author in a new tab | Pass |
 `Sign Up Page`
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
 | The Site's title and logo | The link takes the user to the homepage | Clicked on the title/logo | Takes the user back to the homepage | Pass |
-| Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
-| Nabar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
+| Navbar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
+| Navbar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
 | Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
 | The Input Fields | When targeted/active the border of each of the input fields should become thicker | Clicked on each of the input fields | The border of each of the input fields becomes thicker | Pass |
 | The Log In Button | The background color and the color of the text inside the button should swap when hovered | Hovered on the Log In Button | The background color and the color of the text inside the button swapped | Pass |
@@ -56,8 +57,8 @@ Find in the below table the manual teating I performed.
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
 | The Site's title and logo | The link takes the user to the homepage | Clicked on the title/logo | Takes the user back to the homepage | Pass |
-| Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
-| Nabar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
+| Navbar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
+| Navbar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
 | Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
 
 
