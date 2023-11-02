@@ -31,10 +31,16 @@ Find in the below table the manual teating I performed.
 | Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
 | Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
 
-
-
-
-
+`Sign Up Page`
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The Site's title and logo | The link takes the user to the homepage | Clicked on the title/logo | Takes the user back to the homepage | Pass |
+| Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
+| Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
+| The Input Fields | When targeted/active the border of each of the input fields should become thicker | Clicked on each of the input fields | The border of each of the input fields becomes thinker | Pass |
+| The Log In Button | The background color and the color of the text inside the button should swap when hovered | Hovered on the Log In Button | The background color and the color of the text inside the button swapped | Pass |
+| The Log In Button | The button takes the user to the Log In page | Clicked on the button | Takes the user to the Log In page | Pass |
+| The Join the Coffee Club button | The background color and the color of the text inside the button should swap when hovered | Hovered on The Join the Coffee Club button | Takes the user to the Log In page | Pass |
 
 
 
