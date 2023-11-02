@@ -11,9 +11,22 @@ Find in the below table the manual teating I performed.
 
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-| The Site's title and logo| The link takes the user to the homepage | Clicked on the title/logo | Reloads the homepage | Pass |
-| Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the nabar | Background color changes | Pass |
+| The Site's title and logo | The link takes the user to the homepage | Clicked on the title/logo | Reloads the homepage | Pass |
+| Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
 | Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
+
+`Coffee Types Page`
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The Site's title and logo | The link takes the user to the homepage | Clicked on the title/logo | Takes the user back to the homepage | Pass |
+| Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
+| Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
+| View Article Links | The background color of each one of the View Article links should change when the user hovers on it | Hover on each one of the View Article links | The background color of each one of the View Article changed | Pass |
+| View Article Links | When the user clicks on any of the View Article links they should be directed to the full article on the external website in a new tab | Click on each one of the View Article links | Opens a new tab to the respective coffee type on the external website | Pass |
+
+
+
+
 
 
 
