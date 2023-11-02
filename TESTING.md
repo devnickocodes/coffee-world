@@ -13,13 +13,9 @@ Find in the below table the manual teating I performed.
 | --- | --- | --- | --- | --- |
 | The Site's title and logo | The link takes the user to the homepage | Clicked on the title/logo | Reloads the homepage | Pass |
 | Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the navbar | Background color changes | Pass |
-
 | Nabar Links | Each one of the links takes the user to their respective page | Click on each one of the navbar links | Each link leads to its respective page | Pass |
-
 | Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
-
 | Footer Links | Each one of the four social media icons should open in a new tab their respective social media | Click on each one of the four social media icons | Each social media icons leads to its respective social media website | Pass |
-
 | Author Name Link | Opens the Github Page of the author in a new tab | Click on the Author Name link | Opens the Github Page of the author in a new tab | Pass |
 
 
