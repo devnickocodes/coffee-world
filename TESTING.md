@@ -2,6 +2,28 @@
 
 After the completion and deployment of the website, I sent a link over to family, friends and colleagues and everyone said it was easy for them to navigate through the website, and also that it was easily readable, some of them checked the website on their phones, some on their tablets and some on their computers and everyone was happy with how the website performed.
 
+
+### __Manual Testing__
+
+Find in the below table the manual teating I performed.
+
+`Home Page`
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The Site's title and logo| The link takes the user to the homepage | Clicked on the title/logo | Reloads the homepage | Pass |
+| Nabar Links | The background should change color when the user hovers on each one of the links | Hover on each one of the links of the nabar | Background color changes | Pass |
+| Footer Links | Each one of the four social media icons should change color when the user hovers on it | Hover on each one of the four social media icons | The color of each one of the social media icons changes | Pass |
+
+
+
+
+
+
+
+
+
+
 ### __Cross-browser Testing__
 
 After the deployment of the website I tested it on the three main browsers, Chrome, Edge and Firefox. The website loaded without a problem on every single one of the browsers.
