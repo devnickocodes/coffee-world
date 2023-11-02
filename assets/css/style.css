@@ -638,6 +638,7 @@ footer>p {
         color: rgb(153, 121, 80);
         background-color: #fff;
         border: 1px solid rgb(153, 121, 80);
+        transition: .3s;
     }
 }
 
