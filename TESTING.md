@@ -256,7 +256,7 @@ The performance of the website was tested with Lighthouse, a feature that is par
 
 ### __ADA Testing__
 
-The website was tested for ADA compliancy, which stands for the Americans with Disabilities Act for Accessible Design. Every page of the website passed the check. I used the [Accessibe Website](https://accessibe.com/) to do the teasting.
+The website was tested for ADA compliancy, which stands for the Americans with Disabilities Act for Accessible Design. Every page of the website passed the check. I used the [Accessibe Website](https://accessibe.com/) to do the testing.
 
  - Home Page ADA Testing
 
